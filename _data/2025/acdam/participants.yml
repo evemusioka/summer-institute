@@ -11,7 +11,7 @@
 - name: "Linet Mutegi." # Replace with participant name.
   image: /assets/images/linet.png  # Add participant image to assets/images/ and update here.
   bio: "Linet Mutegi is a development finance expert who is passionate about the growth potential of Africa and how African based institutions can immensely contribute to growth in Africa. She works in Academia and has great passion for teaching and undertaking interdisciplinary research. She holds a Masters’ degree in Development Finance and a bachelors’ degree in Finance and economics (magna cum laude). She hopes to continue undertaking research that positively impacts the society. To date, she has undertaken meaningful research on Gender and Taxation, Climate financing and the Financial gender gap in Africa. "  # Add participant bio here.
-  website:  # Link participant website here.  
+  website:   # Link participant website here.  
   
 - name: "Youssouf Bouzir." # Replace with participant name.
   image: /assets/images/bouzir.png  # Add participant image to assets/images/ and update here.
